@@ -1,12 +1,8 @@
+---
+layout: post
 title: 第一篇
-tags:
-  - Linux
-  - CentOS
-  - Firewall
-categories:
-  - 乱七八糟
 date: 2015-10-02 00:30:00
-comments: true
+categories: Linux CentOS
 ---
 
 
@@ -28,8 +24,8 @@ comments: true
 
 * 在iptables里面放行需要的端口，这里放行的是80端口。
 
-		sudo iptables -I INPUT -p tcp -m tcp --dport 80 -j ACCEPT
-		sudo service iptables save
+  	sudo iptables -I INPUT -p tcp -m tcp --dport 80 -j ACCEPT
+  	sudo service iptables save
 
 ### 接下来的事
 
