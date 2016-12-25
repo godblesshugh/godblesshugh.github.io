@@ -32,4 +32,3 @@ categories: Linux CentOS
 * Feeling服务端继续完善。（纸飞机那个算法好像好复杂的样子）
 * Go还任重道远，慢慢在看GoBlog的代码
 * 许总推荐的UNIX 网络编程好贵买不起
-* 到底什么时候能见到猪猪呢 T.T
